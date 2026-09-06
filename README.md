@@ -2,7 +2,7 @@
 
 A deep learning approach for semantic segmentation of forest disturbances in high-resolution aerial imagery, using the Deep4Dist dataset and a U-Net architecture.
 
-This project was developed for the course *AI Approaches in Earth Observation* (04-GEO-OMA25), taught by Prof. Konstantin Müller, as part of the M.Sc. Applied Earth Observation and Geoanalysis (EAGLE) program at the University of Würzburg.
+This project was developed for the course *AI Approaches in Earth Observation* (04-GEO-OMA25), taught by Konstantin Müller, as part of the M.Sc. Applied Earth Observation and Geoanalysis (EAGLE) program at the University of Würzburg.
 
 ## Project Overview
 
